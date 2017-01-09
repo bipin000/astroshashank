@@ -6,10 +6,10 @@ $file=basename($_SERVER['REQUEST_URI']);
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Astro shashank</title>
+	<title>Astro By Shashank</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Astro shashank" />
-	<meta name="keywords" content="Astro shashank" />
+	<meta name="description" content="Astro By Shashank" />
+	<meta name="keywords" content="Astro By Shashank" />
 	<meta name="author" content="bct" />
 
 	<!-- 
@@ -76,7 +76,7 @@ $file=basename($_SERVER['REQUEST_URI']);
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-3">
-						<div id="fh5co-logo"><a href="index.php">Astro shashank<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="index.php">Astro By Shashank<span>.</span></a></div>
 					</div>
 					<div class="col-xs-9 text-right menu-1">
 <ul>
