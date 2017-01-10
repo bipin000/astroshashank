@@ -40,7 +40,7 @@
 			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; 2017 Astro Shashank. All Rights Reserved.</small> 
+						<small class="block">&copy; 2017 Astro by Shashank. All Rights Reserved.</small> 
 						<small class="block">Designed by <a href="http://qubits.in/" target="_blank">Qubits IT Services</a> </small>
 					</p>
 					<p>

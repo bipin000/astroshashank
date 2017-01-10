@@ -79,7 +79,9 @@
 		<div class="choose animate-box">
 			<div class="fh5co-heading">
 				<h2>About Astro Shashank</h2>
-				<p>Astro Shashank has been associated with all kinds of gems and rudraksha jewellery from generations and is the leading company in the field of precious and semi- precious gems, diamonds and rudraksha’s at the most genuine prices. We can provide you all categories of gems and rudraksha including  genuine quality. </p>
+				<p>Mr. Shashank Prajapati is a famous Astrologer, Rudraksha Consultant, Gemologist & Vastu  Expert.</p>
+				<p>He is practising since 2007, he has started his career as an accountant but he discovered super natural powers in himself as he predicted for few of his friends and find most satisfactory results. </p>
+<p>And then people encouraged him to do this for good cause and for human beings.</p>
 			</div>
 		</div>
 	</div>

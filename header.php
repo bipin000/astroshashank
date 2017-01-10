@@ -75,10 +75,10 @@ $file=basename($_SERVER['REQUEST_URI']);
 		<div class="top-menu">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-3">
+					<div class="col-xs-4">
 						<div id="fh5co-logo"><a href="index.php">Astro By Shashank<span>.</span></a></div>
 					</div>
-					<div class="col-xs-9 text-right menu-1">
+					<div class="col-xs-8 text-right menu-1">
 <ul>
 							<li <?php if($file=="index.php") echo 'class="active"'; ?>><a href="index.php">Home</a></li>
 							<li class="has-dropdown <?php if($file=='about_us.php') echo 'active'; ?>"><a href="about_us.php">About Us</a>
